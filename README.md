@@ -1,7 +1,7 @@
 # Call Center Performance Dashboard
 
 ## Project Overview
-This project analyzes call center operations using data visualization to highlight critical Key Performance Indicators (KPIs). The Power BI dashboard provides actionable insights into agent performance, customer satisfaction, and overall call handling efficiency. The objective is to optimize resource allocation, improve customer service, and enhance operational efficiency.
+This Power BI dashboard is designed to monitor key operational metrics and provide actionable insights into call center performance. This dashboard incorporates crucial Key Performance Indicators (KPIs) to assess customer satisfaction, agent performance, call handling efficiency, and time-based trends. With creative data visualizations, the dashboard empowers Claire to make data-driven decisions for process improvements and enhanced customer experience.
 
 ---
 
@@ -15,6 +15,25 @@ The dataset contains the following fields:
 - **Speed of Answer**: Time (in seconds) taken to answer a call.
 - **Average Talk Duration**: Average time (hh:mm:ss) spent handling a call.
 - **Satisfaction**: Customer feedback score (on a scale of 1-5).
+
+---
+## Dashboard Requirements
+The following KPIs and metrics have been incorporated into dashboard:
+
+1. **Overall Customer Satisfaction**:
+   - Tracks customer feedback ratings to measure the quality of service provided.
+
+2. **Overall Calls Answered vs. Abandoned**:
+   - Monitors call center efficiency by comparing the ratio of calls answered to calls abandoned.
+
+3. **Calls by Time**:
+   - Analyzes call distribution throughout the day to identify peak and off-peak activity periods.
+
+4. **Average Speed of Answer**:
+   - Measures the time taken for agents to respond to incoming calls, highlighting agent responsiveness.
+
+5. **Agent’s Performance Quadrant**:
+   - Visualizes agent efficiency by comparing average handle time (talk duration) against the number of calls answered. This categorization supports targeted coaching and recognition.
 
 ---
 
